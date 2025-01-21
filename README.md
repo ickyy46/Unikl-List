@@ -1,5 +1,9 @@
 # Unikl-List
 DevOps Project Assessment
+<<<<<<< HEAD
+=======
+DevOps Project Assessment
+>>>>>>> e621e911172cb15d0590cd5589167cbbea25d346
 
 UNIKL List
 Project Description
@@ -37,8 +41,20 @@ Testing:
 
 Jest and Supertest for unit and integration testing.
 
+<<<<<<< HEAD
 Contributors
 Arissa  - Git Manager
 Deanna Sofea  - CI/CD Engineer
 Huda Deeny - Docker Specialist
 Che Maisarah Elisa -  Documentation Specialist
+=======
+Contributors:
+
+Arissa  - Git Manager
+
+Deanna Sofea  - CI/CD Engineer
+
+Huda Deeny - Docker Specialist
+
+Che Maisarah Elisa -  Documentation Specialist
+>>>>>>> e621e911172cb15d0590cd5589167cbbea25d346
