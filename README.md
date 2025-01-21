@@ -38,8 +38,12 @@ Testing:
 
 Jest and Supertest for unit and integration testing.
 
-Contributors
+Contributors:
+
 Arissa  - Git Manager
+
 Deanna Sofea  - CI/CD Engineer
+
 Huda Deeny - Docker Specialist
+
 Che Maisarah Elisa -  Documentation Specialist
