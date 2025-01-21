@@ -1,60 +1,21 @@
-# Unikl-List
-DevOps Project Assessment
-<<<<<<< HEAD
-=======
-DevOps Project Assessment
->>>>>>> e621e911172cb15d0590cd5589167cbbea25d346
+# UNIKL List
 
-UNIKL List
-Project Description
-UNIKL List is a web application designed to help Universiti Kuala Lumpur (UniKL) students and staff manage and organize their tasks, events, and resources efficiently. The platform provides a streamlined interface for creating, editing, and tracking lists, enabling users to stay organized and productive.
+## Project Description
+UNIKL List is a simple web application showcasing a list of UniKL campuses in Malaysia. This project demonstrates how to build and deploy a static web application using Docker and a lightweight Nginx server.
 
-This project demonstrates the application of DevOps principles, including version control, CI/CD pipelines, and containerization, to build, test, and deploy the application seamlessly.
+### Features
+- Displays a list of UniKL campuses.
+- Simple and responsive design.
+- Lightweight and containerized using Docker.
 
-Features
-List Of Unikl In Malaysia 
+---
 
-Tools and Technologies
+## Tools and Technologies
+- **Frontend**: HTML, CSS, JavaScript.
+- **Containerization**: Docker, Nginx.
 
-The following tools and technologies are used in the development and deployment of this project:
-
-
-Database:
-
-MYSQL
-
-Version Control:
-
-Git for tracking code changes.
-GitHub for hosting the repository and enabling collaboration.
-
-CI/CD:
-
-GitHub Actions to automate build, test, and deploy workflows.
-
-Containerization:
-
-Docker for creating a consistent development and deployment environment.
-Docker Compose for managing multi-container setups.
-
-Testing:
-
-Jest and Supertest for unit and integration testing.
-
-<<<<<<< HEAD
-Contributors
-Arissa  - Git Manager
-Deanna Sofea  - CI/CD Engineer
-Huda Deeny - Docker Specialist
-Che Maisarah Elisa -  Documentation Specialist
-=======
-Contributors:
-
-Arissa  - Git Manager
-
-Deanna Sofea  - CI/CD Engineer
-
-Huda Deeny - Docker Specialist
-
-Che Maisarah Elisa -  Documentation Specialist
->>>>>>> e621e911172cb15d0590cd5589167cbbea25d346
+## Contributors
+Arissa -Git Manager
+Deanna Sofea - CI/CD Engineer
+Che Maisarah  - Docker Specialist
+Huda Deeny - Documentation Specialist
